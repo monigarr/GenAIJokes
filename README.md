@@ -105,14 +105,11 @@ If you can't locate your group, please contact the program manager through Disco
 
 The following frameworks/libraries are used to bootstrap this project. Add-ons/plugins are in the acknowledgements section.
 
+* [Encode AI and GPT Bootcamp](https://www.encode.club/ai-gpt-bootcamp)
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [OpenAI](https://WWW.openai.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,9 +130,9 @@ Encode AI and GPT Bootcamp Github Repository and Discord
 Installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Follow instructions in Encode AI and GPT Bootcamp Github Repo and Daily Zoom Classes
-2. Clone the repo
+2. Clone the Github Repo
    ```sh
-   git clone https://github.com/monigarr/
+   git clone https://github.com/monigarr/GenAIJokes/
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -146,6 +143,7 @@ Installing and setting up your app. This template doesn't rely on any external d
 ## Usage
 
 screenshots here
+Instructions are in Encode AI and GPT Bootcamp Github Repo for Lesson 8, Storytelling app and Weekend Project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,8 +152,8 @@ screenshots here
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Complete this Project
-- [] Send this project link and team id codes to Encode AI and GPT Bootcamp Form
+- [x] Complete this Project before Sunday 9/2/2024
+- [] Enter this project link and team id codes to Encode AI and GPT Bootcamp Form no later than 9/2/2024
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -188,9 +186,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://x.com/3DTechArtist) - email@example.com
+MoniGarr - [@3DTechArtist](https://x.com/3DTechArtist) - monigarr@monigarr.com
 
-Project Link: [https://github.com/monigarr/repo_name](https://github.com/monigarr/repo_name)
+Project Link: [https://github.com/monigarr/repo_name](https://github.com/monigarr/GenAIJokes)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
