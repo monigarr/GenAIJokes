@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About GenAI Jokes App
 
-[![GenAI Jokes Screen Shot][product-screenshot]]
+![GenAI Jokes Screen Shot][product-screenshot]
 
 To consolidate the knowledge acquired this week, students should complete the following project:
 
