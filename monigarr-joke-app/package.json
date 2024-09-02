@@ -1,5 +1,5 @@
 {
-  "name": "monigarr-joke-app",
+  "name": "story-telling-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "ai": "^3.3.20",
     "next": "14.2.7",
-    "openai": "^4.56.2",
+    "openai": "^4.56.1",
     "react": "^18",
     "react-dom": "^18"
   },
